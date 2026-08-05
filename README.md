@@ -99,17 +99,3 @@ npm run dev
 
 ---
 
-## 🔮 Future Enhancements
-
-- Instructor Dashboard
-- Admin Panel
-- Course Upload & Management
-- Certificate Generation
-- Video Streaming
-- Payment Gateway Integration
-- Wishlist & Reviews
-- Email Verification
-- Password Reset
-
----
-
